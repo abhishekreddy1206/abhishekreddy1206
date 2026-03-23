@@ -139,7 +139,7 @@ I also have a background in **neuroscience research** — co-authored 3 publicat
 
 ## Beyond Code
 
-When I'm not engineering systems, you'll find me **painting portraits** (Amitabh Bachchan, Goku, and watercolors), on the **tennis court**, or driving my **Mustang** on Bay Area back roads.
+When I'm not engineering systems, you'll find me **painting portraits**, on the **tennis court**, or driving my **Mustang** on Bay Area back roads.
 
 ---
 
