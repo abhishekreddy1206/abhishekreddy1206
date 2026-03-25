@@ -16,7 +16,7 @@
 
 ## About Me
 
-Senior Software Engineer with **13+ years** building backend systems, payments infrastructure, and AI-powered products across **FinTech, Real Estate, Automotive, and Home Services**.
+Staff Software Engineer with **13+ years** building backend systems, payments infrastructure, and AI-powered products across **FinTech, Real Estate, Automotive, and Home Services**.
 
 I've spent my career making complex systems reliable at scale — from fixing **$1M payout bugs** at Angi to building **fault-tolerant transaction pipelines** at Franklin Templeton to shipping an **LLM-powered real estate chatbot** at PropKhoj. I care about systems that are correct, auditable, and fast.
 
