@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=13%2B+years+shipping+backend+systems+at+scale;From+payments+infra+to+AI-powered+products;Built+systems+processing+millions+of+transactions;Painter+%F0%9F%8E%A8+%C2%B7+Tennis+player+%F0%9F%8E%BE+%C2%B7+Mustang+driver+%F0%9F%8F%8E%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=14%2B+years+shipping+backend+systems+at+scale;From+payments+infra+to+AI-powered+products;Building+agentic+AI+products+with+Claude;Built+systems+processing+millions+of+transactions;Painter+%F0%9F%8E%A8+%C2%B7+Tennis+player+%F0%9F%8E%BE+%C2%B7+Mustang+driver+%F0%9F%8F%8E%EF%B8%8F)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekyeruva)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1467535)
@@ -16,7 +16,7 @@
 
 ## About Me
 
-Staff Software Engineer with **13+ years** building backend systems, payments infrastructure, and AI-powered products across **FinTech, Real Estate, Automotive, and Home Services**.
+Staff Software Engineer with **14+ years** building backend systems, payments infrastructure, and AI-powered products across **FinTech, Real Estate, Automotive, and Home Services**.
 
 I've spent my career making complex systems reliable at scale — from fixing **$1M payout bugs** at Angi to building **fault-tolerant transaction pipelines** at Franklin Templeton to shipping an **LLM-powered real estate chatbot** at PropKhoj. I care about systems that are correct, auditable, and fast.
 
@@ -108,7 +108,7 @@ I also have a background in **neuroscience research** — co-authored 3 publicat
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekreddy1206&repo=resumeforge&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
 
-> **ResumeForge** — An AI-powered resume builder I built with Claude, Next.js 16, TypeScript, and Prisma. Upload your resume, add job descriptions, and it automatically analyzes compatibility, applies AI-driven optimizations, and generates tailored ATS-optimized PDFs. Features conversational profile editing, cross-job gap analysis, and a full automation pipeline.
+> **ResumeForge** — An AI-powered resume builder built with Claude, Next.js 16, TypeScript, and Prisma. Upload a resume → Claude structures it into a rich profile. Add job descriptions (paste or URL scrape) → Claude extracts requirements and scores ATS compatibility. Features: conversational profile editing, AI-driven experience discovery, cross-job gap analysis with leverage scores, profile versioning with ATS score deltas, tailored PDF/DOCX generation, resume critique, skills editor, bulk job import, and token usage analytics. Full agentic pipeline — Claude handles parsing, analysis, writing, and optimization end-to-end.
 
 ---
 
@@ -150,3 +150,4 @@ When I'm not engineering systems, you'll find me **painting portraits**, on the 
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
