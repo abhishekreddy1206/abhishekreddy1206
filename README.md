@@ -13,6 +13,11 @@
   <a href="mailto:abhishekreddy1206@gmail.com">Email</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishekreddy1206&label=Profile%20Views&color=0f766e&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/abhishekreddy1206?label=Followers&style=flat-square&color=1d4ed8" alt="GitHub followers" />
+</p>
+
 ## What I Build
 
 I build backend and platform systems where correctness, throughput, and observability matter: transaction processing, reconciliation workflows, ETL and data platforms, and service integrations that have to hold up under production load.
@@ -27,6 +32,17 @@ Most of my day-to-day production work lives in private fintech repositories, so 
 - Reduced database load by **~40%** by introducing distributed caching for high-throughput automotive retail services at Cox Automotive.
 - Cut duplicate professional profiles by **15%** with PII-aware detection and merge workflows that improved trust and data quality.
 - Reduced page-load issues by **30%** while leading feature delivery and performance fixes for a multi-team home services platform.
+
+## GitHub Highlights
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekreddy1206&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7dd3fc&icon_color=38bdf8&text_color=e5eef7&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekreddy1206&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7dd3fc&text_color=e5eef7" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekreddy1206&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub streak" />
+</p>
 
 ## Selected Work
 
