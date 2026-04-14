@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Abhishek Yeruva profile header</title>
+  <desc id="desc">A dark abstract banner representing backend systems, data platforms, and applied AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081120" />
+      <stop offset="50%" stop-color="#10243d" />
+      <stop offset="100%" stop-color="#1d4f6a" />
+    </linearGradient>
+    <linearGradient id="lineA" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6ee7f9" stop-opacity="0.20" />
+      <stop offset="100%" stop-color="#6ee7f9" stop-opacity="0.75" />
+    </linearGradient>
+    <linearGradient id="lineB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#f8fafc" stop-opacity="0.55" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#dbeafe" stroke-opacity="0.10" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)" />
+  <rect width="1280" height="320" fill="url(#grid)" opacity="0.55" />
+
+  <g opacity="0.95">
+    <circle cx="180" cy="88" r="6" fill="#6ee7f9" />
+    <circle cx="260" cy="120" r="5" fill="#f8fafc" />
+    <circle cx="360" cy="86" r="7" fill="#6ee7f9" />
+    <circle cx="470" cy="130" r="5" fill="#f8fafc" />
+    <circle cx="520" cy="210" r="6" fill="#6ee7f9" />
+
+    <line x1="180" y1="88" x2="260" y2="120" stroke="url(#lineA)" stroke-width="2" />
+    <line x1="260" y1="120" x2="360" y2="86" stroke="url(#lineA)" stroke-width="2" />
+    <line x1="360" y1="86" x2="470" y2="130" stroke="url(#lineA)" stroke-width="2" />
+    <line x1="470" y1="130" x2="520" y2="210" stroke="url(#lineA)" stroke-width="2" />
+    <line x1="260" y1="120" x2="520" y2="210" stroke="url(#lineB)" stroke-width="1.5" />
+  </g>
+
+  <g opacity="0.95">
+    <rect x="780" y="70" width="320" height="62" rx="14" fill="#0f172a" fill-opacity="0.48" stroke="#6ee7f9" stroke-opacity="0.34" />
+    <rect x="860" y="144" width="240" height="50" rx="14" fill="#0f172a" fill-opacity="0.42" stroke="#f8fafc" stroke-opacity="0.22" />
+    <rect x="930" y="206" width="170" height="42" rx="14" fill="#0f172a" fill-opacity="0.42" stroke="#6ee7f9" stroke-opacity="0.28" />
+
+    <text x="806" y="109" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2">BACKEND SYSTEMS</text>
+    <text x="886" y="176" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1.7">DATA PLATFORMS</text>
+    <text x="958" y="233" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.6">APPLIED AI</text>
+  </g>
+
+  <g opacity="0.42">
+    <path d="M 0 254 C 180 214, 310 278, 430 250 S 700 212, 860 252 S 1110 286, 1280 228" fill="none" stroke="#6ee7f9" stroke-width="2.2" />
+    <path d="M 0 276 C 140 246, 290 300, 430 282 S 690 242, 860 280 S 1110 310, 1280 254" fill="none" stroke="#f8fafc" stroke-width="1.4" />
+  </g>
+</svg>
