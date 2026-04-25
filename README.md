@@ -79,10 +79,10 @@ Useful proof of hands-on model experimentation, inference API design, and the en
 
 ## Writing and Community
 
-I write occasionally on [Medium](https://medium.com/@abhishekreddy1206) about data engineering, cloud architecture, and applied AI systems. I use GitHub mostly to publish representative projects, document technical decisions clearly, and keep public work easy to evaluate.
+I use GitHub mostly to publish representative projects, document technical decisions clearly, and keep public work easy to evaluate.
 
 Outside of engineering, I am a serious car enthusiast. I have owned 5+ cars over the years, and I have a collection of 1,000+ toy cars.
 
 ## Contact
 
-If you are hiring for backend, platform, fintech infrastructure, or applied AI engineering roles, reach me at [abhishekreddy1206@gmail.com](mailto:abhishekreddy1206@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/abhishekyeruva/).
+If you are hiring for backend, platform, fintech infrastructure, or applied AI engineering roles, reach me at [abhishekyeruva@gmail.com](mailto:abhishekyeruva@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/abhishekyeruva/).
